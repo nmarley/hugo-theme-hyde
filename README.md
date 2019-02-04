@@ -171,6 +171,6 @@ googleAnalytics: Your tracking code
 
 ## License
 
-Open sourced under the [MIT license](LICENSE.md).
+Open sourced under the [MIT license](LICENSE).
 
 <3
