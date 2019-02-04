@@ -1,17 +1,16 @@
-name = "Hyde"
+name = "Hyde Modified"
 license = "MIT"
-licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
+licenselink = "https://github.com/nmarley/hugo-theme-hyde/blob/master/LICENSE"
 description = "An elegant open source and mobile first theme"
 tags = ["blog", "company"]
-features = ["blog", "themes", "disqus"]
+features = ["blog", "themes"]
 min_version = 0.21
 
 [author]
-    name = "spf13"
-    homepage = "http://spf13.com"
+    name = "Nathan Marley"
+    homepage = "https://github.com/nmarley/hugo-theme-hyde"
 
 # If Porting existing theme
 [original]
-    author =  "mdo"
-    homepage = "http://markdotto.com/"
-    repo = "https://www.github.com/mdo/hyde"
+    name = "spf13"
+    homepage = "http://spf13.com"
